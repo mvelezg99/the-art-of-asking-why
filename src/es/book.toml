@@ -1,0 +1,14 @@
+[book]
+title = "Become a Real Senior Software Engineer"
+authors = ["Miguel Velez"]
+language = "es"
+src = "."
+
+[build]
+build-dir = "../../book/es"
+
+[output.html]
+default-theme = "navy"
+
+[output.html.print]
+enable = true
