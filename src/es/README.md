@@ -15,7 +15,7 @@
 
 ---
 
-[Inicio](../index.html) | <img src="../assets/flags/usa.svg" alt="United States flag" width="24" height="16" style="vertical-align: -3px; margin-right: 6px;"> [Read in English](../en/)
+[Inicio](../) | <img src="../assets/flags/usa.svg" alt="United States flag" width="24" height="16" style="vertical-align: -3px; margin-right: 6px;"> [Read in English](../en/)
 
 Este libro digital interactivo ha sido diseñado como una especialización técnica avanzada de alto rendimiento. El contenido aquí expuesto no busca enseñarte la sintaxis de un lenguaje o el uso básico de una herramienta de moda; su propósito real es transformar tu criterio técnico.
 
