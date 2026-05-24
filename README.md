@@ -1,8 +1,8 @@
 ﻿<div align="center">
 
-<img src="src/es/assets/cover.jpg" alt="The Art of Asking Why Cover" width="400" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.25); margin: 20px 0;">
+<img src="src/assets/cover.jpg" alt="The Art of Asking Why Cover" width="400" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.25); margin: 20px 0;">
 
-# The Art of Asking Why
+# The Art of Asking WHY?
 
 **A technical book and personal specialization project by Miguel Velez**
 

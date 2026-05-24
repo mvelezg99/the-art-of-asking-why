@@ -1,15 +1,7 @@
 <div align="center">
 
 <!-- Renderizado de la Portada Centrada -->
-<img src="assets/cover.jpg" alt="The Art of Asking Why Cover" width="400" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.4); margin: 20px 0;">
-
-**Por Miguel Velez**
-
----
-
-[![Status](https://img.shields.io/badge/Status-Work%20In%20Progress-orange?style=flat-flat)]()
-[![License](https://img.shields.io/badge/Prose-Copyright-red?style=flat-flat)]()
-[![Code License](https://img.shields.io/badge/Code-MIT-green?style=flat-flat)]()
+<img src="../assets/cover.jpg" alt="The Art of Asking Why Cover" width="400" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.4); margin: 20px 0;">
 
 </div>
 
@@ -29,6 +21,6 @@ A lo largo de estas páginas, realizaremos un viaje profundo que conecta los fun
 
 <div align="center" style="margin-top: 40px;">
 
-### [👉 Comenzar a Leer: Ir al Preface](./00-preface.md)
+### [👉 Comenzar a Leer: Ir al Prefacio](./00-preface.md)
 
 </div>
