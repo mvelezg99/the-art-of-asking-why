@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="es/assets/cover.jpg" alt="Become a Real Senior Software Engineer Cover" width="400" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.4); margin: 20px 0;">
+<img src="es/assets/cover.jpg" alt="The Art of Asking Why Cover" width="400" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.4); margin: 20px 0;">
 
-# Become a Real Senior Software Engineer
+# The Art of Asking Why
 
 **By Miguel Velez**
 
