@@ -1,6 +1,18 @@
+﻿<div align="center">
+
+<img src="src/es/assets/cover.jpg" alt="The Art of Asking Why Cover" width="400" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.25); margin: 20px 0;">
+
 # The Art of Asking Why
 
-Official repository for the technical book and personal specialization project by **Miguel Velez**.
+**A technical book and personal specialization project by Miguel Velez**
+
+This book is about developing engineering judgment: learning to ask why technologies exist, what problems they solve, what trade-offs they introduce, and when they are actually worth using.
+
+### 🔗 [Read the book here!](https://mvelezg99.github.io/the-art-of-asking-why/)
+
+</div>
+
+---
 
 ## Structure
 
@@ -43,3 +55,5 @@ Published routes:
 - `/en/`: English edition.
 
 The `book/` directory is generated and should not be committed.
+
+
