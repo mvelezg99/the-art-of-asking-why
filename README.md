@@ -8,7 +8,7 @@
 
 This book is about developing engineering judgment: learning to ask why technologies exist, what problems they solve, what trade-offs they introduce, and when they are actually worth using.
 
-<h3><a href="https://mvelezg99.github.io/the-art-of-asking-why/" target="_blank" rel="noopener noreferrer">🔗 Read the book here!</a></h3>
+### 🔗 [Read the book here!](https://mvelezg99.github.io/the-art-of-asking-why/)
 
 </div>
 
@@ -55,6 +55,5 @@ Published routes:
 - `/en/`: English edition.
 
 The `book/` directory is generated and should not be committed.
-
 
 
