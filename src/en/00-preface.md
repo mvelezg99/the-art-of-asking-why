@@ -80,7 +80,7 @@ This book does not pretend to have the final word. It is meant to be a map. A wa
 
 The purpose is simple:
 
-**to recover the art of asking why, so we can build better software, make better decisions, and grow into more complete engineers.**
+**To recover the art of asking why. So we can build better software, make better decisions, and grow into more complete engineers.**
 
 ---
 

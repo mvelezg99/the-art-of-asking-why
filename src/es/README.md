@@ -11,7 +11,7 @@
 
 Este libro digital interactivo ha sido diseñado como una especialización técnica avanzada de alto rendimiento. El contenido aquí expuesto no busca enseñarte la sintaxis de un lenguaje o el uso básico de una herramienta de moda; su propósito real es transformar tu criterio técnico.
 
-A lo largo de estas páginas, realizaremos un viaje profundo que conecta los fundamentos más atómicos de las ciencias de la computación con las decisiones arquitectónicas de gran escala y el liderazgo estratégico necesario para ejercer el rol de **CTO**.
+A lo largo de estas páginas, realizaremos un viaje profundo que conecta los fundamentos de las ciencias de la computación con las decisiones arquitectónicas, trade-offs del mundo real y el liderazgo estratégico necesario para crecer como ingeniero.
 
 **¿Cómo navegar este libro?**
 

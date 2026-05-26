@@ -14,7 +14,7 @@ if (-not $python) {
     throw 'Python is required to serve the generated book directory.'
 }
 
-$port = 3000
+$port = 3001
 $url = "http://localhost:$port/"
 $buildScript = Join-Path $PSScriptRoot 'build.ps1'
 

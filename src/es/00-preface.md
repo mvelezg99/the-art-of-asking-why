@@ -80,7 +80,7 @@ Este libro no pretende tener la última palabra. Pretende ser un mapa. Una forma
 
 Al final, el propósito es simple:
 
-**recuperar el arte de preguntarse por qué para construir mejor software, tomar mejores decisiones y crecer como ingenieros más completos.**
+**Recuperar el arte de preguntarse por qué. Para construir mejor software, tomar mejores decisiones y crecer como ingenieros más completos.**
 
 ---
 
